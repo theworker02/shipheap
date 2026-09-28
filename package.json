@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shipheap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ship host/heap network string helpers for config audits.",
+  "bin": {
+    "shipheap": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shipheap.git"
+  },
+  "homepage": "https://theworker02.github.io/shipheap/",
+  "keywords": [
+    "ship",
+    "heap",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
